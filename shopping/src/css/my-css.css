@@ -1,0 +1,18 @@
+.login-form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+.login-text{
+    margin: 50px 0 15px 0;
+    background-image: -webkit-linear-gradient(left,#ff9000 0,#ff5000 100%);
+    color: #fff !important;
+}
